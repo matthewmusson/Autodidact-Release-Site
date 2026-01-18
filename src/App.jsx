@@ -132,7 +132,7 @@ function App() {
             className="logo"
           />
           <h1 className="title">Download Autodidact</h1>
-          <p className="subtitle">Your AI-powered learning companion</p>
+          <p className="subtitle">AI to help <i> you </i> learn</p>
         </header>
 
         <main className="main">
